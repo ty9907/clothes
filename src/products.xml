@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?><list>
+  <clothes id="A0001">
+    <brand>VERMODA</brand>
+    <style>?????</style>
+    <color>???</color>
+    <size>S</size>
+    <num>1</num>
+    <price>274.0</price>
+    <description>????????</description>
+  </clothes>
+  <clothes id="A0002">
+    <brand>GAP</brand>
+    <style>?????</style>
+    <color>????</color>
+    <size>S</size>
+    <num>10</num>
+    <price>164.0</price>
+    <description>???????</description>
+  </clothes>
+  <clothes id="A0003">
+    <brand>ONLY</brand>
+    <style>?????</style>
+    <color>???</color>
+    <size>S</size>
+    <num>16</num>
+    <price>48.0</price>
+    <description>????????</description>
+  </clothes>
+  <clothes id="A0004">
+    <brand>minor</brand>
+    <style>?????</style>
+    <color>???</color>
+    <size>S</size>
+    <num>20</num>
+    <price>99.0</price>
+    <description>????</description>
+  </clothes>
+  <clothes id="A0005">
+    <brand>????</brand>
+    <style>?????</style>
+    <color>???</color>
+    <size>S</size>
+    <num>15</num>
+    <price>99.0</price>
+    <description>???????</description>
+  </clothes>
+  <clothes id="A0006">
+    <brand>????</brand>
+    <style>?????</style>
+    <color>?????</color>
+    <size>S</size>
+    <num>9</num>
+    <price>199.0</price>
+    <description>???????</description>
+  </clothes>
+  <clothes id="A0007">
+    <brand>??????</brand>
+    <style>?????</style>
+    <color>??????</color>
+    <size>????</size>
+    <num>6</num>
+    <price>398.0</price>
+    <description>???</description>
+  </clothes>
+  <clothes id="A0008">
+    <brand>????</brand>
+    <style>?????</style>
+    <color>????</color>
+    <size>????</size>
+    <num>40</num>
+    <price>399.0</price>
+    <description>????????</description>
+  </clothes>
+  <clothes id="A0009">
+    <brand>??????</brand>
+    <style>?????</style>
+    <color>???</color>
+    <size>S</size>
+    <num>20</num>
+    <price>188.0</price>
+    <description>??????</description>
+  </clothes>
+  <clothes id="A0010">
+    <brand>??????</brand>
+    <style>?????</style>
+    <color>???</color>
+    <size>M</size>
+    <num>10</num>
+    <price>288.0</price>
+    <description>????????</description>
+  </clothes>
+</list>
